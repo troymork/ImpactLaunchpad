@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Docker and build artifacts
+docker-compose.override.yml
+build/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Git filter-repo backup
+.git-rewrite/
+
+# Node/npm cache (if ever using npm in the project)
+node_modules/
+
+# Personal Mac files
+.Trashes
+.Spotlight-V100
+.fseventsd
