@@ -1,0 +1,6 @@
+{
+  "task_id": "2025-05-01__handsfree-test",
+  "type": "summarize_transcript",
+  "input_path": "transcripts/2025-05-01__handsfree-test.txt",
+  "output_path": "outputs/2025-05-01__oracle-summary.md"
+}
